@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#btn {
+  pointer: cursor;
+  border: 2px solid black;
+  transition: 0.5s ease-in-out;
+}
+#btn:hover {
+  color: white;
+  border: 2px solid white;
+  background: transparent;
+}

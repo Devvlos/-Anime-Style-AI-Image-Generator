@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Devvlos/-Anime-Style-AI-Image-Generator/static/css/main.8061a13a.css",
-    "main.js": "/Devvlos/-Anime-Style-AI-Image-Generator/static/js/main.95716a5e.js",
+    "main.js": "/Devvlos/-Anime-Style-AI-Image-Generator/static/js/main.e27a8350.js",
     "static/js/787.b815bb7b.chunk.js": "/Devvlos/-Anime-Style-AI-Image-Generator/static/js/787.b815bb7b.chunk.js",
     "static/media/homepage.jpg": "/Devvlos/-Anime-Style-AI-Image-Generator/static/media/homepage.fa4e35acfef99ad73c13.jpg",
     "static/media/loader.gif": "/Devvlos/-Anime-Style-AI-Image-Generator/static/media/loader.3368a3c8cdf66de9cead.gif",
     "index.html": "/Devvlos/-Anime-Style-AI-Image-Generator/index.html",
     "main.8061a13a.css.map": "/Devvlos/-Anime-Style-AI-Image-Generator/static/css/main.8061a13a.css.map",
-    "main.95716a5e.js.map": "/Devvlos/-Anime-Style-AI-Image-Generator/static/js/main.95716a5e.js.map",
+    "main.e27a8350.js.map": "/Devvlos/-Anime-Style-AI-Image-Generator/static/js/main.e27a8350.js.map",
     "787.b815bb7b.chunk.js.map": "/Devvlos/-Anime-Style-AI-Image-Generator/static/js/787.b815bb7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8061a13a.css",
-    "static/js/main.95716a5e.js"
+    "static/js/main.e27a8350.js"
   ]
 }

@@ -2,7 +2,7 @@
 <h3 align="center">Ever Wonder How Monkey with sushi Would Look Like Together If They Were In A Anime Show? Now You Could Using Lado Rani - Anime Style AI Image Generator</h3>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/Devvlos/Anime-Style-AI-Image-Generator)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://ladorani.vercel.app/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://lado-rani.vercel.app/)
 [![Author](https://img.shields.io/badge/Author-Adhish%20Gupta-blue.svg)](https://twitter.com/DevlosX)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-01%23July%202024-yellow.svg)](https://github.com/Devvlos/Anime-Style-AI-Image-Generator)
 
@@ -28,7 +28,7 @@
 
 Enter any two things you wanna see together like character, person, animal, or food and let our LADO RANI generate an anime style image for you.
 
-- [Demo](https://ladorani.vercel.app/)
+- [Demo](https://lado-rani.vercel.app/)
 
 ## 🚀 Getting started
 

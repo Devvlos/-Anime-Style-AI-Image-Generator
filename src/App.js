@@ -1,23 +1,8 @@
-import {
-  Navigate,
-  Route,
-  BrowserRouter as Router,
-  Routes,
-} from "react-router-dom";
 import Home from "../src/pages/Home";
 import "./index.css";
 
 function App() {
-  return (
-    <div className="App">
-      <Router>
-        <Routes>
-          <Route path="/home" element={<Home />} />
-          <Route path="/" element={<Navigate replace to="/home" />} />
-        </Routes>
-      </Router>
-    </div>
-  );
+  return <Home/>
 }
 
 export default App;
